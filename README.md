@@ -60,15 +60,6 @@ project-folder/
 ─ package.json
 ─ README.md
 
-
----
-
-## 🚀 How to Run the Project
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-
 ---
 
 📚 Learning Outcomes
