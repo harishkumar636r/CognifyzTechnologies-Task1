@@ -1,17 +1,29 @@
-# Task 1: HTML Structure and Basic Server Interaction
+# Cognifyz Technologies – Task 1  
+## HTML Structure & Basic Server Interaction
 
-This project introduces the fundamentals of **server-side rendering** and **form handling** using **Node.js**, **Express.js**, and **EJS**.
+This project demonstrates the fundamentals of **server-side rendering** and **form handling** using **Node.js**, **Express.js**, and **EJS**.  
+It is part of **Task 1** under the **Cognifyz Technologies Full Stack Development Program**.
 
-It demonstrates how user input from HTML forms is processed on the server and dynamically rendered back to the browser.
+The application collects user input through an HTML form and dynamically renders the response on the server.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Live Website:**  
+👉 https://cognifyztechnologies-task1.onrender.com/
+
+> Deployed using **Render (Free Tier)**
 
 ---
 
 ## 🎯 Objective
 
-- Understand server-side rendering concepts
-- Learn how to handle form submissions
-- Build a basic Express server
-- Render dynamic HTML using EJS templates
+- Understand server-side rendering
+- Handle form submissions on the backend
+- Set up a basic Express server
+- Dynamically generate HTML using EJS templates
+- Deploy a Node.js application using Render
 
 ---
 
@@ -21,17 +33,19 @@ It demonstrates how user input from HTML forms is processed on the server and dy
 - Express.js
 - EJS (Embedded JavaScript Templates)
 - HTML5
-- CSS (optional styling)
+- CSS3
+- Render (Deployment)
 
 ---
 
 ## 📂 Project Features
 
-✔ Simple HTML form for user input  
-✔ Express server setup  
-✔ Server-side routes to handle POST requests  
+✔ HTML form for user input  
+✔ Express.js server setup  
+✔ POST request handling  
 ✔ Dynamic content rendering using EJS  
-✔ Beginner-friendly project structure  
+✔ Server-side rendering  
+✔ Live deployment using Render  
 
 ---
 
