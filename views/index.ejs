@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Portfolio Form</title>
+<link rel="stylesheet" href="/style.css">
+</head>
+<body class="<%= theme %>">
+
+<div class="container">
+  <h1>✨ Portfolio Form</h1>
+  <button id="toggleTheme">Toggle Dark/Light Mode</button>
+
+  <form method="POST" action="/submit" id="userForm">
+    <input type="text" name="username" placeholder="Name" required>
+    <input type="email" name="email" placeholder="Email" required>
+    <input type="number" name="age" placeholder="Age" required>
+    <button type="submit">Submit</button>
+  </form>
+
+  <div id="loader" class="hidden">Submitting...</div>
+</div>
+
+<script src="/script.js"></script>
+</body>
+</html>
