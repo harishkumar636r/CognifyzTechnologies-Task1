@@ -38,16 +38,13 @@ It demonstrates how user input from HTML forms is processed on the server and dy
 ## 📁 Project Structure
 
 project-folder/
-│
-├── views/
-│ └── index.ejs
-│
-├── public/
-│ └── style.css
-│
-├── server.js
-├── package.json
-└── README.md
+─ views/
+─ index.ejs
+─ public/
+─ style.css
+─ server.js
+─ package.json
+─ README.md
 
 
 ---
