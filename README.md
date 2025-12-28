@@ -51,14 +51,21 @@ The application collects user input through an HTML form and dynamically renders
 
 ## 📁 Project Structure
 
-project-folder/
-─ views/
-─ index.ejs
-─ public/
-─ style.css
-─ server.js
-─ package.json
-─ README.md
+project-folder
+
+- views
+
+- index.ejs
+
+- public
+
+- style.css
+
+- server.js
+
+- package.json
+
+- README.md
 
 ---
 
