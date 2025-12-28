@@ -1,4 +1,4 @@
-/* Live animated gradient background */
+
 body {
   font-family: "Segoe UI", sans-serif;
   text-align: center;
@@ -83,7 +83,6 @@ button:hover { transform: translateY(-2px); box-shadow: 0 10px 20px rgba(0,0,0,0
   100% { transform: translateY(100vh) rotate(360deg); opacity:0; }
 }
 
-/* Floating particles */
 .particle {
   position: fixed;
   width: 6px;
